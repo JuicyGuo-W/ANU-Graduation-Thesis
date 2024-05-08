@@ -1,4 +1,4 @@
-An Experimental Study of Machine Learning Evaluation Methods
+# An Experimental Study of Machine Learning Evaluation Methods
 Thesis Submitted for the Degree: Bachelor of Advanced Computing (Honours)
 Session: S2/S1 2021–2022
 Author: Meilin Guo
